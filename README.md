@@ -24,7 +24,3 @@ Skills: HTML / CSS / Bootstrap / Sass / jQuery
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/raselranaearshad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rasel-rana-earshad-365728287//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/raselranaearshad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/yHF2QagCxEnn)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/raselranaearshad)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/raselranaearshad&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/raselranaearshad)  
