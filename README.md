@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Rasel
-#### Web Designer
-![Web Designer](https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/358715134_113414108475579_4626616686757875107_n.png?stp=dst-png_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeGY7eDywuOP_1gT5tCyF6_dgk25UDeVQi6CTblQN5VCLl7bGnVaMmClVjt4rbhGYy9cyZkPYa1V4N1u3ysYmGIb&_nc_ohc=N7tiSL64LHwAX_OLAvJ&_nc_ht=scontent.fdac15-1.fna&oh=00_AfCtavdPipYoD53kBIsrWyc_ltvXPbghRUfo15dtqn66HA&oe=64DB9F28)
+## Web Designer
 
 Greetings! I'm a dedicated web designer with a flair for creating captivating online experiences. My journey began with a passion for HTML5, CSS3, and the world of design, and it has led me to master the art of crafting visually stunning and user-centric websites.
 
